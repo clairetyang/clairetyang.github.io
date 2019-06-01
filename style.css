@@ -4,31 +4,6 @@
     padding: 0;
 }
 
-body
-{
-    font-family: monospace;
-}
-.row
-{
-    font-family: 'Karla', sans-serif;
-	font-size: 20px;
-	margin-top: 20px;
-	margin-left: 20px;
-	
-}
-*{
-	box-sizing: border-box;
-}
-.small-header
-{
-	font-family: 'Karla', sans-serif;
-	font-size: 20px;
-	margin-top: 60px;
-	margin-left: 6%;
-	margin-right:6%
-	float: top;
-	width: 33.33%;
-}
 .main {
 	margin-left: 6%;
 	margin-right: 6%;
@@ -74,7 +49,6 @@ body
 
 }
 
-
 .main-nav li a
 {
     color: black;
@@ -83,17 +57,7 @@ body
 	font-family: 'Karla', sans-serif;
     font-size: 20px;
 }
-
-.big-header
-{
-    position: left;
-    //width: 1200px;
-    margin-left: 0px;
-    margin-top: 0px;
-    
-}
-
-
+/*-----Fonts-----*/
 h1
 {
 	font-family: 'Karla', sans-serif;;
@@ -118,6 +82,7 @@ h2
 header
 {
 	margin-top: 5%;
+	margin-right: 10%;
 	
 }
 .pic
@@ -128,42 +93,6 @@ header
 	font-size: 20px;
 	size: 10px;
 }
-
-.button
-{
-    margin-top: 20px;
-    margin-left: 440px;
-}
-
-.btn
-{
-    border: 1px solid black;
-	background-color: rgb(255,192,203);
-    padding: 10px 20px;
-    color: black;
-    text-decoration: none;
-    margin-right: 5px;
-    font-size: 13px;
-    text-transform: uppercase;
-}
-.btn-one
-{
-    background-color: darkorange;
-    font-family: 'Karla', sans-serif;
-}
-
-.btn-two
-{
-    font-family: 'Karla', sans-serif;
-}
-
-
-.btn-two:hover
-{
-    background-color: darkorange;
-    transition: all 0.5s ease-in;
-    
-        
 }
 
 
