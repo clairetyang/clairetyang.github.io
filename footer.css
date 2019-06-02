@@ -1,0 +1,47 @@
+
+.footer .fa {
+  font-size: 1.3rem;
+  color: #fefefe;
+}
+
+.footer .fa:hover {
+  color: #4a4a4a;
+  transition: color 0.3s ease-in;
+}
+
+.footer {
+  padding: 1rem;
+  background: #8a8a8a;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+	position: relative;
+	width: 100%;
+	bottom: 0;
+	background-color:  rgb(255,192,203);
+	overflow: auto;
+	text-align: center;
+	padding: 40px;
+}
+.footer icon {
+	padding: 10px;
+	color: white;
+}
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px; 
+	text-align: center;
+}
+.footer  a {
+  float: center; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  width: 50%; /* Equal width (5 icons with 20% width each = 100%) */
+  padding: 20px 0; /* Some top and bottom padding */
+  color: white; /* White text color */
+  font-size: 46px; /* Increased font size */
+}

@@ -4,10 +4,10 @@
 }
 
 .resume-display {
-  width: 300vw;
-  height: 500vh;
+  width: 1000vw;
+  height: 800vh;
 
-  zoom: 0.5;
+  zoom: .5;
 
   margin-top: 10%;
   margin-bottom: 10%;
